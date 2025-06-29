@@ -3,11 +3,12 @@
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
-**Database**: `MySQL`, `sql_project_p1`
+**Database**: `MySQL`  
+**Schema**: `sql_project_p1`
 
 ## Objectives
 
-1. **Set up a retail sales database**: Create and populate a retail sales database with the provided sales data.
+1. **Set up a retail sales schema**: Create and populate a retail sales database with the provided sales data.
 2. **Data Cleaning**: Identify and remove any records with missing or null values.
 3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
 4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
